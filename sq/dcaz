@@ -5,10 +5,6 @@ import java.io.File;
 import java.io.IOException;
 import javax.imageio.ImageIO;
 
-/**
- *
- * @author abelm
- */
 public class Nave2 extends Nave{
     public Nave2(int ti, int tde, int tdi) {
         super(ti, tde, tdi, 3, CacheImagenes.getInstancia().getImage("../img/nave2.png"), 400, 1000);
