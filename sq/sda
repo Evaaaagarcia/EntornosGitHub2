@@ -21,7 +21,7 @@ public class Nave2 extends Nave{
             Disparo d2 = new Disparo(1, this.getX(), this.getY(), 3, -3);
 
         }catch (IOException error){
-            System.out.println(error);
+            System.out.println(errorooooooooooooooooooooooo);
         }
     }
 }
